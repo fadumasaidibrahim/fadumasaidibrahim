@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadumasaidibrahim
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Full stack web devolopment
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Full stack web devolopment at Northcoders bootcamp
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
